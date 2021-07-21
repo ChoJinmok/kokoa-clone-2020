@@ -3,10 +3,6 @@
   justify-content: space-between;
 }
 
-.icon-row--2 {
-  width: 44.5%;
-}
-
 .icon-row__icon {
   display: flex;
   flex-direction: column;
@@ -33,4 +29,8 @@
 .icon-row__notification {
   left: 55px;
   top: -7px;
+}
+
+.icon--none {
+  width: 67px;
 }
