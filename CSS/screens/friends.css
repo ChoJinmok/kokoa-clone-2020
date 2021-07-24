@@ -38,6 +38,15 @@
   margin-right: 10px;
 }
 
+.friends-screen__channe__img {
+  background-color: var(--yellow);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+}
+
 @keyframes hideSplashScreen {
   from {
     opacity: 1;
