@@ -3,7 +3,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 26px 0 15px;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  top: 26px;
+  background-color: white;
 }
 
 .alt-header__column:first-child {

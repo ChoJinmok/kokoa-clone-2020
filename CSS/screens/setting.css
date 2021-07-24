@@ -1,5 +1,5 @@
-.main-settings-list,
-.sub-settings-list {
+.setting-screen {
+  margin: 123px 0 57px;
   padding: 0 var(--horizontal-space);
 }
 
