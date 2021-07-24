@@ -49,7 +49,7 @@
 }
 
 .main-chat {
-  margin: 160px 0 57px;
+  margin: 160px 0 70px;
   padding: 0px var(--horizontal-space);
   display: flex;
   flex-direction: column;
